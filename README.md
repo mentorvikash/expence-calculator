@@ -1,6 +1,8 @@
 # Expence Tracker
 This app build with React add have functionality to add edit and delete expence, that a table which show that expence list.
 
+![image description](public/expenceTracker.png)
+
 ### Packages:
 - formik: For form hanling
 - Yup: Yop for form input valiation.
